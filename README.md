@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lucasriepe
 - 👀 I'am interested in mechanics, PWA software development and SaaS
-- 🌱 I’m currently learning Full-Stack Development
+- 🌱 I’m currently learning Full-Stack Engeneering
 - 📫 How to reach me riepelucas@gmail.com
 
 <!---
