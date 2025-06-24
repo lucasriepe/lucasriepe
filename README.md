@@ -2,7 +2,6 @@
 - 👀 I'am interested in mechanics, PWA software development, HMI Development, Electronics
 - 🌱 I’m currently learning Embedded System Development
 - 📫 How to reach me riepelucas@gmail.com
-- Knowledge
 - c
 - php
 - javascript
